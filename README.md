@@ -18,4 +18,3 @@ $ python3 gtranslate.py
 | Inglés |
 | Alemán |
 | Francés |
-| Medium |
